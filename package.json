@@ -1,0 +1,22 @@
+{
+  "name": "cordova-plugin-vsms-wifi",
+  "version": "0.0.1",
+  "description": "Get Wifi",
+  "cordova": {
+    "id": "cordova-plugin-vsms-wifi",
+    "platforms": []
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/presttec/cordova-plugin-vsms-wifi.git"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "PrestTEC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/presttec/cordova-plugin-vsms-wifi/issues"
+  },
+  "homepage": "https://github.com/presttec/cordova-plugin-vsms-wifi#readme"
+}

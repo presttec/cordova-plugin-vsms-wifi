@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<plugin id="cordova-plugin-vsms-wifi" version="0.0.1" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
+    <name>wifi</name>
+    <js-module name="wifi" src="www/wifi.js">
+        <clobbers target="cordova.plugins.wifi" />
+    </js-module>
+</plugin>
